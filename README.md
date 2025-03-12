@@ -28,7 +28,7 @@ Antes de começar, verifique se você possui:
 3. Escolha o plano de preços apropriado.
 4. Clique em **"Revisar + criar"** e depois em **"Criar"**.
 
-![print2](assets/criar_recurso.png)
+![print2](https://github.com/ItaloRochaj/language-studio/blob/main/assets/print2.png)
 
 ---
 
@@ -37,7 +37,7 @@ Antes de começar, verifique se você possui:
 2. Selecione o serviço **Language Studio**.
 3. Explore funcionalidades como análise de sentimentos, extração de frases-chave e detecção de idioma.
 
-![print3](assets/language_studio.png)
+![print3](https://github.com/ItaloRochaj/language-studio/blob/main/assets/print3.png)
 
 ---
 
@@ -49,20 +49,20 @@ Antes de começar, verifique se você possui:
 3. Conecte-se a um recurso Azure (plano gratuito F0 recomendado).
 4. Insira o texto a ser analisado na caixa de texto. Você também pode usar arquivos ou textos de exemplo.
 
-![print4](assets/configurar_analise.png)
+![print4](https://github.com/ItaloRochaj/language-studio/blob/main/assets/print4.png)
 
 #### Habilitando a Mineração de Opiniões
 1. Ative a opção **"Opinion mining"** para obter análises detalhadas sobre palavras ou atributos específicos.
 2. Clique em **"Analyze"** para processar o texto.
 
-![print5](assets/habilitar_mineracao.png)
+![print5](https://github.com/ItaloRochaj/language-studio/blob/main/assets/print5.png)
 
 #### Interpretando os Resultados
 - Sentimentos são classificados como **negativo**, **neutro** ou **positivo**.
 - As pontuações de confiança aparecem em níveis de sentença e documento.
 - Caso a mineração de opinião esteja ativada, veja insights detalhados sobre palavras e atributos analisados.
 
-![print6](assets/resultados.png)
+![print6](https://github.com/ItaloRochaj/language-studio/blob/main/assets/print6.png)
 
 ---
 
