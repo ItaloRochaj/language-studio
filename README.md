@@ -64,10 +64,3 @@ Antes de começar, verifique se você possui:
 ## Conclusão
 
 Com este guia, você pode aproveitar as capacidades de **Azure Speech Studio** para tarefas relacionadas à fala e do **Language Studio** para análises avançadas de texto, incluindo sentimentos e opiniões. Essas ferramentas fornecem um poder computacional incrível para enriquecer suas aplicações.
-
----
-
-Se precisar de mais informações ou tiver dúvidas, não hesite em pedir ajuda! 😊
-```
-
-Espero que este README atenda às suas expectativas! Se quiser adicionar algo ou alterar o formato, é só me avisar. 🚀
