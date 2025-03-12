@@ -173,3 +173,21 @@ Este guia fornece instruções detalhadas sobre como acessar e utilizar o Speech
 ## Conclusão
 
 Com este guia, você aprendeu a utilizar o **Azure Speech Studio** para conversão de fala em texto e o **Azure Language Studio** para análises avançadas de texto, como mineração de sentimentos e opiniões. Essas ferramentas fornecem um poder computacional incrível para enriquecer suas aplicações com inteligência artificial e automação linguística. Para mais informações, consulte a [documentação oficial do Azure Speech Studio](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/) e do [Azure Language Studio](https://learn.microsoft.com/en-us/azure/ai-services/language-service/).
+
+## 🖋️ Créditos
+Este repositório foi desenvolvido como guia de estudos da Bootcamp Decola Tech 2025, para avaliar o ensinado na bootcamp.
+
+*Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a Avanade ou franquia DIO, ou suas empresas associadas.*
+
+### 👨🏻‍💻 Autor:
+<table style="border=0">
+  <tr>
+    <td align="left">
+      <a href="https://github.com/ItaloRochaj">
+        <span><b>Italo Rocha</b></span>
+      </a>
+      <br>
+      <span>Full-Stack Development</span>
+    </td>
+  </tr>
+</table>
