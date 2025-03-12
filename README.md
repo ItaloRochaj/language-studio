@@ -20,7 +20,7 @@ Antes de começar, verifique se você possui:
 2. Pesquise por "Speech Studio" e selecione o serviço nos resultados.
 3. Explore recursos como **Conversão de Fala em Texto**, **Texto em Fala** e **Tradução de Fala**.
 
-![print1](assets/speech_studio.png)
+![print1](https://github.com/ItaloRochaj/language-studio/blob/main/assets/print1.png)
 
 #### Criando um Recurso de Fala
 1. No Speech Studio, clique em **"Criar um recurso"**.
