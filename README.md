@@ -168,4 +168,3 @@ Aqui está um exemplo de saída JSON gerada pela análise de sentimentos:
 
 ## Conclusão
 Com este guia, você pode aproveitar as capacidades do Azure Speech Studio para tarefas relacionadas à fala e do Language Studio para análises avançadas de texto, incluindo sentimentos e opiniões. Essas ferramentas fornecem um poder computacional incrível para enriquecer suas aplicações.
-
