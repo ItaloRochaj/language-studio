@@ -64,7 +64,8 @@ Antes de começar, verifique se você possui:
 
 ![print6](https://github.com/ItaloRochaj/language-studio/blob/main/assets/print6.png)
 
-![print7](https://github.com/ItaloRochaj/language-studio/blob/main/assets/print7.png)
+![print](https://github.com/ItaloRochaj/language-studio/blob/main/assets/print8.png)
+
 
 ---
 
@@ -160,3 +161,11 @@ Aqui está um exemplo de saída JSON gerada pela análise de sentimentos:
     "errors": [],
     "modelVersion": "2025-01-01"
 }
+
+## Recursos Adicionais
+Confira a documentação ou amostras no GitHub diretamente pelo interface do Language Studio.
+Explore outros recursos do Azure Speech Studio e Language Studio para aprimorar suas aplicações.
+print7
+
+## Conclusão
+Com este guia, você pode aproveitar as capacidades de Azure Speech Studio para tarefas relacionadas à fala e do Language Studio para análises avançadas de texto, incluindo sentimentos e opiniões. Essas ferramentas fornecem um poder computacional incrível para enriquecer suas aplicações.
