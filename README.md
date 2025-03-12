@@ -1,4 +1,4 @@
-# README - Uso do Azure Speech Studio e do Azure Language Studio
+Uso do Azure Speech Studio e do Azure Language Studio
 
 ## Introdução
 
