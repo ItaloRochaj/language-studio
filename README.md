@@ -64,6 +64,8 @@ Antes de começar, verifique se você possui:
 
 ![print6](https://github.com/ItaloRochaj/language-studio/blob/main/assets/print6.png)
 
+![print7](https://github.com/ItaloRochaj/language-studio/blob/main/assets/print7.png)
+
 ---
 
 ## Exemplo de Saída de Análise
